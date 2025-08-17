@@ -1,1 +1,1 @@
-A set of instruction to make delicious recipe
+A set of instruction to make a delicious recipe
